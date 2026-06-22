@@ -1,0 +1,1 @@
+Scripts and data used for comparing COI primer matches across sequences of Wolbachia and other Bacteria in the article: "Insect COI barcoding data as an untapped resource for surveying Wolbachia symbioses".
