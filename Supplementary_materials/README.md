@@ -1,4 +1,4 @@
-Supplementary material for the article: "Insect COI barcoding data as an untapped resource for surveying Wolbachia symbioses"
+Supplementary materials for the article: "Insect COI barcoding data as an untapped resource for surveying Wolbachia symbioses"
 
 Supplementary Figure S1: Full alignment of the analysed COI primers and Wolbachia references
 
